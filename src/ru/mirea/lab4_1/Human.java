@@ -1,4 +1,4 @@
-package ru.mirea.lab41;
+package ru.mirea.lab4_1;
 
 abstract class Human {
     private String fullName;

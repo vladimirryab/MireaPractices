@@ -1,4 +1,4 @@
-package ru.mirea.lab41;
+package ru.mirea.lab4_1;
 
 public class Person extends Human {
 
