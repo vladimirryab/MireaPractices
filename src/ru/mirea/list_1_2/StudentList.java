@@ -5,8 +5,8 @@ import ru.mirea.list_1_1.Student; // возьмем тот же класс ст�
 import java.util.Scanner;
 
 public class StudentList {
-    Node head; // первый узел в списке
-    Node tail; // последний узел в списке
+    private Node head; // первый узел в списке
+    private Node tail; // последний узел в списке
 
     public StudentList() {
         head = null;
