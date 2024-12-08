@@ -1,7 +1,5 @@
 package ru.mirea.lab11;
 
-import java.text.SimpleDateFormat;
-
 public class Task implements Printable {
     private String surName; // фамилия
     private int getDate; // получение
